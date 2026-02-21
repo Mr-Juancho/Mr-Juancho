@@ -1,7 +1,6 @@
 ## 👋 Hey, I'm Juan
 AI Engineer in the making | CS Student (Year 3) | Building real things with LLMs
 
-**Mr-Juancho/Mr-Juancho** is_debugged_{ 
 
 Currently focused on LLM integration, voice AI, and NLP-driven data intelligence, 
 with hands-on experience across the full AI stack: from prompt engineering and model orchestration to speech recognition and data mining.
@@ -21,4 +20,3 @@ Python LangChain Hugging Face PyTorch OpenAI API Anthropic API Whisper ElevenLab
 📌 What I'm looking for
 I'm actively seeking my first role as a Junior AI Engineer where I can contribute to meaningful AI products, keep growing fast, and work alongside people who take the craft seriously.
 I learn by building. Check my repos — the code speaks for itself.
-}
